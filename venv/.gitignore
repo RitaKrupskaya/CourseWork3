@@ -1,0 +1,9 @@
+/.pytest_cache
+/bin
+/lib
+/venv
+/.idea
+pyvenv.cfg
+.coverage
+poetry.lock
+pyproject.toml
